@@ -1,0 +1,29 @@
+location_id,super_region_id,location_name
+4,4,"Southeast Asia, East Asia, and Oceania"
+31,31,"Central Europe, Eastern Europe, and Central Asia"
+64,64,High-income
+103,103,Latin America and Caribbean
+137,137,North Africa and Middle East
+158,158,South Asia
+166,166,Sub-Saharan Africa
+5,4,East Asia
+9,4,Southeast Asia
+21,4,Oceania
+32,31,Central Asia
+42,31,Central Europe
+56,31,Eastern Europe
+65,64,High-income Asia Pacific
+70,64,Australasia
+73,64,Western Europe
+96,64,Southern Latin America
+100,64,High-income North America
+104,103,Caribbean
+120,103,Andean Latin America
+124,103,Central Latin America
+134,103,Tropical Latin America
+138,137,North Africa and Middle East
+159,158,South Asia
+167,166,Central Sub-Saharan Africa
+174,166,Eastern Sub-Saharan Africa
+192,166,Southern Sub-Saharan Africa
+199,166,Western Sub-Saharan Africa
